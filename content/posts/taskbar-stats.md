@@ -2,6 +2,8 @@
 title: "Taskbar Stats 任务栏上显示系统信息"
 date: 2021-05-07T16:18:36+08:00
 draft: true
+tags: [tech, software]
+categories: [tech]
 ---
 
 ![taskbar-stats](https://cdn.jsdelivr.net/gh/z775729168/imgbed@master/img/taskbar-stats.webp)
