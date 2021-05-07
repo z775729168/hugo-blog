@@ -6,7 +6,7 @@ tags: [tech, software]
 categories: [tech]
 ---
 
-![taskbar-stats](https://cdn.jsdelivr.net/gh/z775729168/imgbed@master/img/taskbar-stats.webp)
+![taskbar-stats](https://od.fairever.ml/?/img/taskbar-stats.webp)
 
 **注意：首次安装时，您可能必须右键单击任务栏2次以显示TaskbarStats菜单。**
 

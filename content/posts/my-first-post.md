@@ -5,4 +5,5 @@ draft: false
 tags: [other]
 categories: [other]
 ---
-![](https://cdn.jsdelivr.net/gh/z775729168/imgbed@master/img/89657028_p0_master1200.webp)
+![](https://od.fairever.ml/?/img/89657028_p0_master1200.webp)
+
