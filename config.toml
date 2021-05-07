@@ -4,7 +4,6 @@ title = "fairever's blog"
 theme = "hugo-theme-yinyang"
 [params]
 headTitle = "fairever"
-disqus = "https-blog-fairever-ml"
 [[params.socials]]
 name = "RSS"
 link = "/index.xml"
