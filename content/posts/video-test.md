@@ -6,5 +6,5 @@ draft: true
 
 {{< bilibili BV1jt4y1U79W 1 >}}
 
-{${< youtube LH0yFFPBTuc >}}
+{{< youtube LH0yFFPBTuc >}}
 
