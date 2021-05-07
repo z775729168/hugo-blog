@@ -6,4 +6,4 @@ theme = "hugo-theme-yinyang"
 headTitle = "fairever"
 [[params.socials]]
 name = "RSS"
-link = "https://blog.fairever.ml/index.xml"
+link = "/index.xml"
