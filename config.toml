@@ -1,4 +1,4 @@
 baseURL = "https://blog.fairever.ml"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "hugo-geekblog"
+theme = "hugo-theme-yinyang"
